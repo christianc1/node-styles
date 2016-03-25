@@ -1,6 +1,6 @@
 {
   "name": "lift-styles",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Base styles for a new Lift project",
   "main": "index.js",
   "scripts": {
