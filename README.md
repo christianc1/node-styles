@@ -6,7 +6,7 @@ A placeholder where styles are supposed to go.  This repo will not accept pull r
 
 ### Getting Started
 **Install using npm**
-`npm install git@github.com/{USER_or_ORG}/{YOUR-FORK}`
+`npm install https://github.com/{USER_or_ORG}/{YOUR-FORK}`
 
 ### Using in a project
 **Webpack:**  If you're using `sass-loader`, in the component scss...
