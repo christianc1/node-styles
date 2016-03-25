@@ -1,0 +1,22 @@
+{
+  "name": "lift-styles",
+  "version": "0.1.0",
+  "description": "Base styles for a new Lift project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liftux/node-styles.git"
+  },
+  "author": "Christian Chung <christian@liftux.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liftux/node-styles/issues"
+  },
+  "homepage": "https://github.com/liftux/node-styles#readme",
+  "dependencies": {
+    "bourbon": "^4.2.6"
+  }
+}
